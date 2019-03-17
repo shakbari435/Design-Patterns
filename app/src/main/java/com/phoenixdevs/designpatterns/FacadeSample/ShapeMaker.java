@@ -1,4 +1,4 @@
-package com.phoenixdevs.designpatterns.FacedeSample;
+package com.phoenixdevs.designpatterns.FacadeSample;
 
 public class ShapeMaker {
     private Shape circle;
