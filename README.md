@@ -8,3 +8,4 @@ The above source code was created to fully understand the Design Patterns.
 - Builder Design Pattern
 - Facade Design Pattern
 - Factory Design Pattern
+- Adapter Design Pattern
