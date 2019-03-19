@@ -1,7 +1,6 @@
 package com.phoenixdevs.designpatterns.FactorySample;
 
 public class ProgrammerFactory {
-    private ProgrammerFactory instance;
 
 
     public static int Android_PROGRAMMER_TYPE = 0;
@@ -20,3 +19,5 @@ public class ProgrammerFactory {
     }
 
 }
+
+

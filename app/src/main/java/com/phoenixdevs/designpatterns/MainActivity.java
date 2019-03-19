@@ -33,7 +33,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         // TODO: Factory Design Pattern Sample
-        Programmer programmer = ProgrammerFactory.getProgrammer(ProgrammerFactory.Android_PROGRAMMER_TYPE);
+        Programmer programmer =
+                ProgrammerFactory.getProgrammer(ProgrammerFactory.Android_PROGRAMMER_TYPE);
 
 
 
@@ -44,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        
+
         // TODO: Adapter Design Pattern Sample
         AudioPlayer audioPlayer = new AudioPlayer();
         audioPlayer.play("mp3", "beyond the horizon.mp3");
