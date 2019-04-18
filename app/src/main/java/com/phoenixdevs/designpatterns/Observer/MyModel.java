@@ -56,8 +56,8 @@ public class MyModel {
 
     public MyModel() {
         // just for testing we hard-code the persons here:
-        persons.add(new Persons("Lars", "Vogel"));
-        persons.add(new Persons("Jim", "Knopf"));
+        persons.add(new Persons("Hossein", "Akbari"));
+        persons.add(new Persons("Hossein", "Hosseini"));
     }
 
     private void notifyListeners(Object object, String property, String oldValue, String newValue) {
